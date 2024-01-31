@@ -123,6 +123,7 @@ main {
     background-color: #4C2121;
 }
 .gallery{
+    grid-gap: 10px;
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(400px,1fr));
     grid-auto-flow: column;
