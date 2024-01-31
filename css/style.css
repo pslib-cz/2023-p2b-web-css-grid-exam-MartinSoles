@@ -120,7 +120,8 @@ main {
 
 /*GALERIE*/
 #galerie{
-    
+    display: grid;
+  
 }
 
 
